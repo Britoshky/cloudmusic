@@ -9,9 +9,9 @@ export function Footer() {
           <div className="text-center md:text-left space-y-3">
             <div className="flex items-center gap-2 justify-center md:justify-start">
               <img 
-                src="/Cloud-Music-Logo-FONDO-BLANCO.png" 
+                src="/Cloud-Music-Logo-TRANSPARENTE.png" 
                 alt="Cloud Music - Economía Creativa Digital" 
-                className="h-12 w-auto"
+                className="h-24 w-auto"
               />
             </div>
             <p className="text-sm text-slate-400">

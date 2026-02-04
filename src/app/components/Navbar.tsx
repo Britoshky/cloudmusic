@@ -51,7 +51,7 @@ export function Navbar() {
             <img 
               src="/Cloud-Music-Logo-TRANSPARENTE.png" 
               alt="Cloud Music - Servicios Digitales de Audio y Tecnología en Chile" 
-              className="h-10 md:h-12 w-auto"
+              className="h-20 md:h-24 w-auto"
             />
           </a>
 

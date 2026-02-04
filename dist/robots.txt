@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://cloudmusic.cl/sitemap.xml
+
+# Rutas específicas
+Allow: /assets/
+Allow: /logo-transparent.svg
+Allow: /logo-white.svg
+
+# Optimización de rastreo
+Crawl-delay: 1
