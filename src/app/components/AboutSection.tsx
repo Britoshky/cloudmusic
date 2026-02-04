@@ -8,7 +8,7 @@ export function AboutSection() {
           {/* Logo */}
           <div className="flex justify-center mb-8">
             <img 
-              src="/logo-transparent.svg" 
+              src="/Cloud-Music-Logo-TRANSPARENTE.png" 
               alt="Cloud Music Logo - Economía Creativa Digital Chile" 
               className="h-20 md:h-24 w-auto"
             />

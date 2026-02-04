@@ -9,7 +9,7 @@ export function Footer() {
           <div className="text-center md:text-left space-y-3">
             <div className="flex items-center gap-2 justify-center md:justify-start">
               <img 
-                src="/logo-white.svg" 
+                src="/Cloud-Music-Logo-FONDO-BLANCO.png" 
                 alt="Cloud Music - Economía Creativa Digital" 
                 className="h-12 w-auto"
               />
