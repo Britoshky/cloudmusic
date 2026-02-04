@@ -1,6 +1,5 @@
 import { useState, useEffect } from 'react';
 import { Menu, X } from 'lucide-react';
-import logoTransparent from 'figma:asset/d0373a3720d73cd7abbc1b63a6e8d354f6773055.png';
 
 const navLinks = [
   { name: 'Inicio', href: '#inicio' },
@@ -50,7 +49,7 @@ export function Navbar() {
             className="flex items-center"
           >
             <img 
-              src={logoTransparent} 
+              src="/logo-transparent.svg" 
               alt="Cloud Music - Servicios Digitales de Audio y Tecnología en Chile" 
               className="h-10 md:h-12 w-auto"
             />

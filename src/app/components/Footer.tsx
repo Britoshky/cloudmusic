@@ -1,5 +1,4 @@
 import { Music, Instagram, Mail, MessageCircle } from 'lucide-react';
-import logoWhite from 'figma:asset/bfdcd2ced11b3c640d296bf5fba8b7f58bac9141.png';
 
 export function Footer() {
   return (
@@ -10,7 +9,7 @@ export function Footer() {
           <div className="text-center md:text-left space-y-3">
             <div className="flex items-center gap-2 justify-center md:justify-start">
               <img 
-                src={logoWhite} 
+                src="/logo-white.svg" 
                 alt="Cloud Music - Economía Creativa Digital" 
                 className="h-12 w-auto"
               />

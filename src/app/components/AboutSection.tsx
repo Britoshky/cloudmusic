@@ -1,4 +1,4 @@
-import logoTransparent from 'figma:asset/d0373a3720d73cd7abbc1b63a6e8d354f6773055.png';
+
 
 export function AboutSection() {
   return (
@@ -8,7 +8,7 @@ export function AboutSection() {
           {/* Logo */}
           <div className="flex justify-center mb-8">
             <img 
-              src={logoTransparent} 
+              src="/logo-transparent.svg" 
               alt="Cloud Music Logo - Economía Creativa Digital Chile" 
               className="h-20 md:h-24 w-auto"
             />
